@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula 16 - Exercicio Salario Hora</string>
+    <string name="horasT"><b></b>Horas Trabalhadas</string>
+    <string name="valorH"><b></b>Valor da hora</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="resultado">R$ %d</string>
+</resources>

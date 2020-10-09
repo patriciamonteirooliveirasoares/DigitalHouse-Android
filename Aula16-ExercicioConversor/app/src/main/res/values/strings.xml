@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aula 16 - Exercicio Conversor</string>
+    <string name="temperaturaC"><b></b>Temperatura em °C</string>
+    <string name="btn">Converter</string>
+    <string name="resultado">%d F</string>
+</resources>

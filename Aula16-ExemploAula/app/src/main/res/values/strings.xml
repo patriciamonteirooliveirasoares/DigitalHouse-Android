@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula 16 - Exemplo Aula</string>
+    <string name="mensagemPar">%d É Par</string>
+    <string name="mensagemImpar">%d É ímpar</string>
+</resources>
