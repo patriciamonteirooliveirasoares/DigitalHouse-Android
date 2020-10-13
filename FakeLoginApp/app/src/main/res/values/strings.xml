@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FakeLoginApp</string>
+    <string name="login">LOGIN</string>
+    <string name="toContinue">TO CONTINUE</string>
+    <string name="logIn">LOG IN</string>
+    <string name="creatAccount">CREATE ACCOUNT</string>
+    <string name="signup">SIGN UP</string>
+    <string name="forYourAccount">FOR YOUR ACCOUNT</string>
+    <string name="checkText">I have read and agree the Privacy Policy</string>
+    <string name="welcome">WELCOME</string>
+    <string name="seuNome"> SEU NOME </string>
+</resources>
