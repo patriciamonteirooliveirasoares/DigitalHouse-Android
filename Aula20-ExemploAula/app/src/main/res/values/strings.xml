@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula20-ExemploAula</string>
+    <string name="email">email</string>
+    <string name="senha">senha</string>
+    <string name="outlined_button">Outlined button</string>
+    <string name="texto">texto</string>
+    <string name="texto1">texto1</string>
+    <string name="fab_content_desc">fab</string>
+</resources>
