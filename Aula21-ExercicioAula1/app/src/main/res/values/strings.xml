@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula21-ExercicioAula1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnOne">Fragment A</string>
+    <string name="btnTwo">Fragment B</string>
+</resources>
